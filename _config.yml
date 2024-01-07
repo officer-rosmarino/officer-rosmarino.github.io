@@ -30,9 +30,22 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: Forthoney/consolo
+style: light
+author:
+  name: Marco Galassi
+  email: 
+    personal: gamalarcossi@gmail.com
+header_pages:
+  - about.md
+  - contacts.md
+message: Never stop learning.
+
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 defaults:
   - 
