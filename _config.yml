@@ -30,15 +30,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 # theme: minima
 remote_theme: Forthoney/consolo
-style: light
+style: personal
 author:
   name: Marco Galassi
-  email: 
-    personal: gamalarcossi@gmail.com
+  contacts:
+    show_email: true
+    email:
+      personal: gamalarcossi_at_gmail.com
 header_pages:
   - about.md
+  - work.md
+  - blog.md
 message: Never stop learning.
-
 
 plugins:
   - jekyll-feed
