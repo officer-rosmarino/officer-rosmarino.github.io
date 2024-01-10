@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello, world!"
-date:   2024-01-05 18:22:43 +0100
+date:   2024-01-06 18:22:43 +0100
 categories: "posts"
 ---
 

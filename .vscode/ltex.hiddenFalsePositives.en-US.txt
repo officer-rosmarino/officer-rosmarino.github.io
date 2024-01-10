@@ -1,0 +1,1 @@
+{"rule":"CD_NN","sentence":"^\\QPlaying drums in an apartment is honestly impossible, but luckily my family lived (still does) in a big 2 apartment house (the other apartment was my grandparents) that had a huge garage undernh with a.\\E$"}
