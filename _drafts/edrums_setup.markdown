@@ -32,10 +32,22 @@ Best deal I even had, especially as the guy didn't know much about them, and the
 
 Heck, snare and hi-hat were worth the price alone.
 
-And so I began playing again.
-
-I now have this beautiful e-drum kit, and while I still am a bad student, I can play it.
+And so I began playing again: I now have this beautiful e-drum kit, and while I still am a bad student, I can play!
 
 Every once in a while I like to record myself playing. You can find some of my covers on my [YouTube playlist](https://www.youtube.com/playlist?list=PLPsU7dZT9rcyPT5h5fnXKXPyTn_1egh-4).
 
+## How to set up electronic drums up for a great sound
 
+If you have tried an e-drum set, chances are you were disappointed with how it sounded. This is because, unless you have some fancy kit, sounds that come with the module are usually lacking.
+
+And even if the sounds are decent, you might want to expand them, and not be limited by them. Maybe you want to hear a fart when you play a specific pad (I played a show where whenever I played a pad it would play *"It's Britney bitch"*).
+
+How do you accomplish such a magical thing?
+
+Well, it's easier that you think. There are essentially 3 things you need:
+
+- An electronic drumkit capable of outputting MIDI.
+- An audio interface
+- A computer
+
+The 
