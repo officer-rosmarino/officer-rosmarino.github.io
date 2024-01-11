@@ -282,15 +282,22 @@ pre {
     padding: 0;
     margin: 0;
     overflow: auto;
-    font-size: $code-font-size;
+    font-size: $base-font-size;
     color: var(--text-color);
     line-height: 1.7 !important;
     font-family: $base-font-family !important;
-    white-space: pre-wrap;
 }
 
-code {
+p code {
+    background-color: #f4f4f4;
+    color: #c7254e;
+    font-size: $code-font-size * 0.95;
+    padding: 2px 4px;
+}
+
+pre code {
     display: block;
+    font-size: $code-font-size;
     padding: 10px;
     margin: 0 0 10px;
     background-color: #f4f4f4;
