@@ -17,4 +17,4 @@ I like making short movies, but I suck at it.
 
 I love hiking and camping. The sense of satisfaction after a hard hike in the nature is something different.
 
-I am a bit of a weird Italian. I will try almost every food that I can, and most likely like it.
+I am a bit of a weird Italian. I will try almost every food that I can, and most likely like it. Except for pineapple pizza, that deserves the death penalty (nah, I'm joking).
