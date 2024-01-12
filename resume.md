@@ -4,13 +4,7 @@ title: Resume
 permalink: /resume
 ---
 
-In this page you can find my resume. Here are the different sections:
-
-1. <a href="#work">Work experience</a>
-2. <a href="#education">Education</a>
-
-
-You can also download a full PDF version [here]({{ site.baseurl }}{% link /assets/files/test.pdf %}).
+You can also download a full PDF version [here]({{site.baseurl}}{% link /assets/files/test.pdf %}).
 
 ## Work {#work}
 
