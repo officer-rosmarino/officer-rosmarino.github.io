@@ -16,7 +16,7 @@ Stack and Technologies: Python, Angular, Google Cloud Platform, Terraform, Kuber
 
 ----------
 
-### BPER, Modena, IT (Apr 2019-May 2024)
+### BPER, Modena, IT (Apr 2019-May 2023)
 
 <span style="color: var(--inline-code-color)">IT Analyst</span>
 
