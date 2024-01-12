@@ -26,8 +26,6 @@ Stack and Technologies: Python, Angular, Google Cloud Platform, Terraform, Kuber
 
 <span style="color: var(--inline-code-color)">IT Analyst</span>
 
-Responsibilities: coordinate suppliers and contractors for the development of projects to meet deadlines, prioritize new features and maintain a high level of quality for the bank’s web and mobile banking apps. IT single point of contact for the bank’s personal finance management app. Reverse-engineered and improved past iteration backend architecture for a banking mobile app.
-
 ----------
 
 ### Microlog, Sassuolo, IT (Feb 2017-Mar 2019)
