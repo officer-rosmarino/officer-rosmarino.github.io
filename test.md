@@ -4,7 +4,7 @@ title: test
 permalink: /test
 ---
 
-[work]({{ site.baseurl }}{% link work.md %})
+[resume]({{ site.baseurl }}{% link resume.md %})
 [download resume]({{ site.baseurl }}{% link /assets/files/test.pdf %})
 
 ## Education
