@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume
 ---
 
-You can also download a full PDF version [here]({{site.baseurl}}{% link /assets/files/test.pdf %}).
+<!-- You can also download a full PDF version [here]({{site.baseurl}}{% link /assets/files/test.pdf %}). -->
 
 ## Work {#work}
 
