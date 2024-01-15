@@ -32,7 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: Forthoney/consolo
 style: personal
 author:
-  name: Marco Galassi
+  #name: Marco Galassi
   contacts:
     show_email: true
     email:
@@ -54,8 +54,14 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post" 
-      title: "My title"
+      layout: "post"
+  - 
+    scope:
+      path: "_posts/interview_horror"
+      type: "posts"
+    values:
+      layout: "interview"
+      title: "Interview Horror"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
