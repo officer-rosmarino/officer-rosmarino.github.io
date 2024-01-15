@@ -55,13 +55,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  - 
-    scope:
-      path: "_posts/interview_horror"
-      type: "posts"
-    values:
-      layout: "interview"
-      title: "Interview Horror"
 
 collections:
   quotes:
