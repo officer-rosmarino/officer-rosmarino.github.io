@@ -1,10 +1,17 @@
 ---
 layout: page
-title: Resume
-permalink: /resume
+title: /cv
+permalink: /cv
 ---
 
 <!-- You can also download a full PDF version [here]({{site.baseurl}}{% link /assets/files/test.pdf %}). -->
+
+
+/
+├─ [work](#work)
+├─ [education](#education)
+
+----------
 
 ## Work {#work}
 

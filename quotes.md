@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Quotes
+title: /quotes
 permalink: /quotes
 ---
 
