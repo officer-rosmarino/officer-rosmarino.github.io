@@ -96,6 +96,6 @@ Fast learner and great team player.
 
 ----------
 
-### M.Sc. Software Engineering, UNIMORE (2008 - 2012)
+### B.Sc. Software Engineering, UNIMORE (2008 - 2012)
 
 - Final grade: 98/110
