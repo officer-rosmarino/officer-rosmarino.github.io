@@ -30,7 +30,7 @@ Fast learner and great team player.
 
 ### Full-Stack Software Engineer
 **<span style="color: var(--inline-code-color)">@ Moveshelf, Utrecht, NL [Remote]</span>**
-*Jun 2024-now*
+*Jun 2023-now*
 
 - Coordinate with the product team to analyze, design and develop new features and improve existing ones.
 - Reverse engineer of existing codebase to analyze and solve bugs.
