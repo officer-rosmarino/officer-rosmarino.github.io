@@ -38,7 +38,7 @@ Fast learner and great team player.
 - Conduct code reviews and work together with other SWEs to improve team performance and code quality.
 - Maintaining and improving internal documentation.
 
-<p class="skillset"><em>Python, Angular, Google Cloud Platform, Terraform, Kubernetes, Docker, Electron, MySQL, REST APIs, GraphQL, GitLab CI/CD, Firebase Auth.</em></p>
+<p class="skillset"><em>Python, Angular, Google Cloud Platform, Terraform, Kubernetes, Docker, Electron, MySQL, REST APIs, GraphQL, GitLab CI/CD, Firebase Auth</em></p>
 
 ----------
 
@@ -51,7 +51,7 @@ Fast learner and great team player.
 - IT single point of contact for the bank’s personal finance management app.
 - Reverse-engineered and improved the past iteration backend architecture for one of the banking mobile app.
 
-<p class="skillset"><em>Project Management, Java, SQL (SQL Server, Oracle).</em></p>
+<p class="skillset"><em>Project Management, Java, SQL (SQL Server, Oracle)</em></p>
 
 ----------
 
@@ -62,7 +62,7 @@ Fast learner and great team player.
 - Design, architect and develop APIs and backend services to collect sensor data to serve the company’s core business.
 - Reviewed and improved architecture to improve performance and availability.
 
-<p class="skillset"><em>Express.js, Node.js, PostgreSQL, Google Cloud Platform, RabbitMQ.</em></p>
+<p class="skillset"><em>Express.js, Node.js, PostgreSQL, Google Cloud Platform, RabbitMQ</em></p>
 
 ----------
 
@@ -73,7 +73,7 @@ Fast learner and great team player.
 - Research on novelty search, neuro-evolution, swarm robotics.
 - Lab assistant for Java class.
 
-<p class="skillset"><em>Java, Matlab.</em></p>
+<p class="skillset"><em>Java, Matlab</em></p>
 
 ----------
 
@@ -83,7 +83,7 @@ Fast learner and great team player.
 
 - Research project in collaboration with the biggest Italian telecom provider to develop a POC for identifying significant locations through data obtainable from a telecommunication network.
 
-<p class='skillset'><em>Java.</em></p>
+<p class='skillset'><em>Java</em></p>
 
 ## Education {#education}
 
