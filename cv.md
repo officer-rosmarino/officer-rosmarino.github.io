@@ -28,7 +28,7 @@ Fast learner and great team player.
 
 ## Work Experience {#work}
 
-### Full-Stack Software Engineer
+### /fullstack_software_engineer
 **<span style="color: var(--inline-code-color)">@ Moveshelf, Utrecht, NL [Remote]</span>**
 *Jun 2023-now*
 
@@ -40,9 +40,7 @@ Fast learner and great team player.
 
 <p class="skillset"><em>Python, Angular, Google Cloud Platform, Terraform, Kubernetes, Docker, Electron, MySQL, REST APIs, GraphQL, GitLab CI/CD, Firebase Auth</em></p>
 
-----------
-
-### IT Project Manager
+### /it_project_manager
 **<span style="color: var(--inline-code-color)">@ BPER, Modena, IT</span>**
 *Apr 2019-May 2023*
 
@@ -53,9 +51,7 @@ Fast learner and great team player.
 
 <p class="skillset"><em>Project Management, Java, SQL (SQL Server, Oracle)</em></p>
 
-----------
-
-### Backend Engineer
+### /backend_engineer
 **<span style="color: var(--inline-code-color)">@ Microlog, Sassuolo, IT</span>**
 *Feb 2017-Mar 2019*
 
@@ -64,9 +60,7 @@ Fast learner and great team player.
 
 <p class="skillset"><em>Express.js, Node.js, PostgreSQL, Google Cloud Platform, RabbitMQ</em></p>
 
-----------
-
-### PhD Student
+### /PhD_student
 **<span style="color: var(--inline-code-color)">@ UNIMORE, Modena, IT</span>**
 *Nov 2015-Feb 2017 (quit)*
 
@@ -75,9 +69,7 @@ Fast learner and great team player.
 
 <p class="skillset"><em>Java, Matlab</em></p>
 
-----------
-
-### Research Fellow
+### /research_fellow
 **<span style="color: var(--inline-code-color)">@ UNIMORE, Reggio Emilia, IT</span>**
 *Mar 2012-Dec 2012*
 
@@ -85,17 +77,28 @@ Fast learner and great team player.
 
 <p class='skillset'><em>Java</em></p>
 
+----------
+
 ## Education {#education}
 
-### M.Sc. Software Engineering
+### /MSc_software_engineering
 **<span style="color: var(--inline-code-color)">@ UNIMORE, Modena, IT</span>**
 *UNIMORE (2012 - 2015)*
 
 - Final grade: 110/110
 - Thesis: Novelty Based Driven Online Neuroevolution in Swarm Robotics [link](https://goo.gl/eKlKGk).
 
-----------
-
-### B.Sc. Software Engineering, UNIMORE (2008 - 2012)
+### /BSc_software_engineering
+**<span style="color: var(--inline-code-color)">@ UNIMORE, Modena, IT</span>**
+*UNIMORE (2008 - 2012)*
 
 - Final grade: 98/110
+
+----------
+
+## Publications & patents {#pubpat}
+
+- Galassi Marco, Capodieci Nicola, Cabri Giacomo, Leonardi Letizia, “Evolutionary Strategies for Novelty-Based Online Neuroevolution in Swarm Robotics”, IEEE SMC, Budapest 9-12/10/2016. ([link](https://ieeexplore.ieee.org/abstract/document/7844538))
+- Mamei Marco, Colonna Massimo, Galassi Marco, "Automatic identification of relevant places from cellular network data." Pervasive and Mobile Computing Journal, 2016. ([link](https://www.sciencedirect.com/science/article/abs/pii/S1574119216000213))
+- Mamei Marco, Colonna Massimo, Galassi Marco, “Method and system for identifying significant locations through data obtainable from a telecommunication network”, Europa WO 2015/158399 (18/04/2014), US 9706363 B2 (11/07/2017). ([link](https://patents.google.com/patent/US9706363B2/en))
+- Mamei Marco, Colonna Massimo, Galassi Marco, “Method and system for computing an O-D Matrix obtained through radio mobile network data”, Europa PCT/EP2015/068456 (11/08/2015). ([link](https://patents.google.com/patent/US10395519B2/en))
