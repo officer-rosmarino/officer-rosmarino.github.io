@@ -6,16 +6,20 @@ title: Who am I?
 layout: home
 ---
 
-I am a software engineer. I love learning, solving problems and getting into the nitty-gritty of complex issues.
+<!-- List of available emojis here: [text](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#people--body) -->
 
-I am a father (soon twice!).
+I'm an Italian living in Italy :pizza:
 
-I play drums, although I am not as good as I'd like.
+I am a software engineer. I love learning, solving problems and getting into the nitty-gritty of complex issues. :man_technologist: 
 
-I love music. I've changed my musical taste a lot during the years.
+I am a father (soon twice!). :baby: :heavy_plus_sign: :hourglass_flowing_sand: :baby: 
 
-I like making short movies, but I suck at it.
+I play drums, although I am not as good as I'd like. :drum: 
 
-I love hiking and camping. The sense of satisfaction after a hard hike in the nature is something different.
+I love music, and I listen to different genres. Some of my favorite artists: Muse, Snarky Puppy, Bedřich Smetana, Massive Attack, John Williams. :notes: 
 
-I am a bit of a weird Italian. I will try almost every food that I can, and most likely like it. Except for pineapple pizza, that deserves the death penalty (nah, I'm joking).
+Every once in a while I like making short movies, although I suck at it. :movie_camera: 
+
+I love hiking and camping. The sense of freedom that comes with a long hike in nature is something else. :mountain: :camping: 
+
+I will try essentially every food that I can, and, most likely, I will like it. Except for pineapple pizza. :plate_with_cutlery: 
