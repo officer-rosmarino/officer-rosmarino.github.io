@@ -22,4 +22,4 @@ Every once in a while I like making short movies, although I suck at it. :movie_
 
 I love hiking and camping. The sense of freedom that comes with a long hike in nature is something else. :mountain: :camping: 
 
-I will try essentially every food that I can, and, most likely, I will like it. Except for pineapple pizza. :plate_with_cutlery: 
+I will try essentially every food that I can, and, most likely, I will like it. Except for pineapple pizza (jk). :plate_with_cutlery: 
