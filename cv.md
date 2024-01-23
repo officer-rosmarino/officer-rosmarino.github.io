@@ -38,7 +38,7 @@ Fast learner and great team player.
 - Conduct code reviews and work together with other SWEs to improve team performance and code quality.
 - Maintaining and improving internal documentation.
 
-<p class="skillset"><em>Python, Angular, Google Cloud Platform, Terraform, Kubernetes, Docker, Electron, MySQL, REST APIs, GraphQL, GitLab CI/CD, Firebase Auth</em></p>
+<p class="skillset"><em>Python, Flask, Angular, Javascript, Typescript, Google Cloud Platform, Terraform, Kubernetes, Docker, Electron, MySQL, REST APIs, GraphQL, GitLab CI/CD, Firebase Auth</em></p>
 
 ### /it_project_manager
 **<span style="color: var(--inline-code-color)">@ BPER, Modena, IT</span>**
