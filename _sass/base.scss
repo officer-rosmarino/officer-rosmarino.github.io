@@ -160,12 +160,9 @@ ul {
     list-style-type: none;
     padding-left: 0;
 
-    >li {
-        list-style-position: inside;
-        &:before {
-            content: "-";
-            margin-right: 9px;
-        }
+    >li:before {
+        content: "-";
+        margin-right: 9px;
     }
 }
 
