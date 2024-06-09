@@ -8,7 +8,7 @@ layout: home
 
 <!-- List of available emojis here: [text](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#people--body) -->
 
-I'm an Italian living in Italy :pizza:
+I'm an Italian living in Italy. Yes, I do love pizza. :pizza:
 
 I am a software engineer. I love learning, solving problems and getting into the nitty-gritty of complex issues. :man_technologist: 
 
@@ -20,6 +20,6 @@ I love music, and I listen to different genres. Some of my favorite artists: Mus
 
 Every once in a while I like making short movies, although I suck at it. :movie_camera: 
 
-I love hiking and camping. The sense of freedom that comes with a long hike in nature is something else. :mountain: :camping: 
+I love hiking and camping. :mountain: :camping: 
 
-I will try essentially every food that I can, and, most likely, I will like it. Except for pineapple pizza (jk). :plate_with_cutlery: 
+I will try essentially every food that I can, and, most likely, I will like it. :plate_with_cutlery: 
