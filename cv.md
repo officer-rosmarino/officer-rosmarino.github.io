@@ -86,7 +86,7 @@ Fast learner and great team player.
 *UNIMORE (2012 - 2015)*
 
 - Final grade: 110/110
-- Thesis: Novelty Based Driven Online Neuroevolution in Swarm Robotics [link](https://goo.gl/eKlKGk).
+- Thesis: Novelty Based Driven Online Neuroevolution in Swarm Robotics. ([link](https://goo.gl/eKlKGk))
 
 ### /BSc_software_engineering
 **<span style="color: var(--inline-code-color)">@ UNIMORE, Modena, IT</span>**

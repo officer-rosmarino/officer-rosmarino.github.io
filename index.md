@@ -8,7 +8,7 @@ layout: home
 
 <!-- List of available emojis here: [text](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#people--body) -->
 
-I'm an Italian living in Italy :pizza:
+I'm an Italian living in Italy. Yes, I do love pizza. :pizza:
 
 I am a software engineer. I love learning, solving problems and getting into the nitty-gritty of complex issues :man_technologist: 
 
