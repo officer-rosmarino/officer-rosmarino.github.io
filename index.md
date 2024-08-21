@@ -10,16 +10,16 @@ layout: home
 
 I'm an Italian living in Italy :pizza:
 
-I am a software engineer. I love learning, solving problems and getting into the nitty-gritty of complex issues. :man_technologist: 
+I am a software engineer. I love learning, solving problems and getting into the nitty-gritty of complex issues :man_technologist: 
 
-I am a father (soon twice!). :baby: :heavy_plus_sign: :hourglass_flowing_sand: :baby: 
+I am twice a dad :baby: :baby:
 
-I play drums, although I am not as good as I'd like. :drum: 
+I play drums :drum: 
 
 I love music, and I listen to different genres. Some of my favorite artists: Muse, Snarky Puppy, Bedřich Smetana, Massive Attack, John Williams. :notes: 
 
-Every once in a while I like making short movies, although I suck at it. :movie_camera: 
+Every once in a while I like making short movies, although I suck at it :movie_camera: 
 
-I love hiking and camping. The sense of freedom that comes with a long hike in nature is something else. :mountain: :camping: 
+I love hiking and camping :mountain: :camping: 
 
-I will try essentially every food that I can, and, most likely, I will like it. Except for pineapple pizza (jk). :plate_with_cutlery: 
+I will try to eat anything :plate_with_cutlery: 
