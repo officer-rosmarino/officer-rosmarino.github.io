@@ -1,1 +1,4 @@
 {"rule":"CD_NN","sentence":"^\\QPlaying drums in an apartment is honestly impossible, but luckily my family lived (still does) in a big 2 apartment house (the other apartment was my grandparents) that had a huge garage undernh with a.\\E$"}
+{"rule":"WHEN_WHERE","sentence":"^\\QFour years where all I did was improve email filters so that my inbox didn't get over flooded with useless emails attended meetings, 95% of which I could have not gone.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QFour years where every day I could only look at the clock and ask \"When does this work day end?\"\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QFour years that had also turned into the person I hate the most.\\E$"}

@@ -8,11 +8,11 @@ layout: home
 
 <!-- List of available emojis here: [text](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#people--body) -->
 
-I'm an Italian living in Italy. Yes, I do love pizza. :pizza:
+I'm an Italian, living in Italy. And yes, I do love pizza. :pizza:
 
-I am a software engineer. I love learning, solving problems and getting into the nitty-gritty of complex issues :man_technologist: 
+I am a software engineer. I am happy when I can learn, solve problems and get into the nitty-gritty of complex issues :man_technologist: 
 
-I am twice a dad :baby: :baby:
+I'm twice a dad :baby: :baby:
 
 I play drums :drum: 
 
@@ -22,4 +22,4 @@ Every once in a while I like making short movies, although I suck at it :movie_c
 
 I love hiking and camping :mountain: :camping: 
 
-I will try to eat anything :plate_with_cutlery: 
+I love food and I'll try essentially anything :plate_with_cutlery:
